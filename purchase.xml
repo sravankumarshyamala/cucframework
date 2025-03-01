@@ -1,0 +1,12 @@
+<suite name="purchase">
+<test name="purchase">
+<classes>
+
+<class name="testrunner.stockpurchase"></class>
+</classes>
+
+
+</test>
+
+
+</suite>
