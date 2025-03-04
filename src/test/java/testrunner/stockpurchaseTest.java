@@ -17,7 +17,7 @@ import io.cucumber.junit.CucumberOptions;
                  glue="step",
                  dryRun=false)
 
-public class stockpurchasetest
+public class stockpurchaseTest
 {
 
 }
