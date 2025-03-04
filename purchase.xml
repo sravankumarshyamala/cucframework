@@ -2,7 +2,7 @@
 <test name="purchase">
 <classes>
 
-<class name="testrunner.stockpurchase"></class>
+<class name="testrunner.stockpurchasetest"></class>
 </classes>
 
 
